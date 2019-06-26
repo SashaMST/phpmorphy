@@ -1,5 +1,5 @@
 {
-    "name": "cijic/phpmorphy",
+    "name": "kolobok/phpmorphy",
     "description": "phpMorphy - morphological analyzer library for Russisan, English languages.",
     "keywords": [
         "phpMorphy"
@@ -7,8 +7,8 @@
     "homepage": "https://github.com/cijic/phpmorphy",
     "license": "MIT",
     "authors": [{
-        "name": "Chiril Teterea",
-        "email": "altcode@ya.ru",
+        "name": "Alexander Kolobkov",
+        "email": "kolobok_wm2@mail.ru",
         "role": "Developer"
     }],
     "require": {
